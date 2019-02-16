@@ -1,2 +1,5 @@
-# c-
-intro c++
+#hackerrank
+
+
+
+solved problem
